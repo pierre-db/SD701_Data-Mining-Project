@@ -3,3 +3,5 @@ Ce projet a pour thème la maintenance prédictive d'un parc de machines industr
 Pour faire nos prédictions nous allons utiliser un jeu de données étiqueté avec différentes étiquettes en fonction des types de pannes. Ce genre de jeu de données est très souvent très déséquilibré puisque la classe qui représente l'absence de pannes est largement majoritaire (du moins on l'espère !). Nous allons essayer plusieurs méthodes pour pallier à cela.
 
 En plus de nos prédictions il serait intéressant de pouvoir expliquer / justifer nos prédictions. Dans la plupart des environnements industriels, une telle prédiction déclancherait une intervention d'une équipe de maintenance qui peut s'avérer coûteuse. L'idéal serait de pouvoir aiguiller l'équipe d'intervention vers ce qu'il faut vérifier.
+
+Le jeu de données provient du site Kaggle : https://www.kaggle.com/tiagotgoz/predictive-useful-life-based-into-telemetry.
